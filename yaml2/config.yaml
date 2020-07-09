@@ -1,0 +1,7 @@
+go_web:
+  Test:
+    port: 8066
+grpcSerType: TCP
+grpcSerURL: 127.0.0.1:62222
+grpcCliURL: 8.8.8.8:62222
+
